@@ -22,6 +22,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "StackOverflowUsersApp"
+rootProject.name = "StackUsersApp"
 include(":app")
 include(":core")
+include(":feature:user-search")
