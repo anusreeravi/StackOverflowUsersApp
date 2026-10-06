@@ -24,4 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "StackOverflowUsersApp"
 include(":app")
- 
+include(":core")
